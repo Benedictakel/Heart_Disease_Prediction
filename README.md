@@ -56,10 +56,15 @@ The **Heart Disease Prediction** project uses machine learning algorithms to cla
 ## 🎯 Project Objectives
 
 ✅ Load and explore the heart disease dataset
+
 ✅ Perform data preprocessing (handle missing values, encoding)
+
 ✅ Visualize data to understand distributions and correlations
+
 ✅ Build classification models (Logistic Regression, Random Forest, SVM, etc.)
+
 ✅ Evaluate model performance using accuracy, precision, recall, and F1-score
+
 ✅ Predict heart disease status for new patient data
 
 
